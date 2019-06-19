@@ -1,0 +1,15 @@
+{
+  "name": "nativepromise",
+  "version": "1.0.0",
+  "description": "手动实现promise A+ 规范，并通过测试",
+  "main": "promise.js",
+  "dependencies": {},
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "xxp564357196@163.com",
+  "license": "ISC"
+}
